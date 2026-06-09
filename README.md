@@ -1,5 +1,5 @@
 About Me
 
-- 🌱 I’m currently learning to use Github
-- 🤔 I love painting and gardening in addition to coding
-- ⚡ Fun fact: I'm a twin
+- Rookie developer
+- Learning new skills when ever I can
+- Gardening, painting, reading, decorating ...
